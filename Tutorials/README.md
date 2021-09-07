@@ -1,9 +1,12 @@
-CMS Outer Tracker Tutorials
+#CMS Outer Tracker Tutorials
 
-Tutorial for lab
+Documents to Get Started: https://drive.google.com/drive/u/0/folders/1c9VqISuKbNYS0KyXaPO3EtxJHPtgCwiX
+
+##Tutorial for lab
+
 Probe station operation
 
-Tutorial for software
+##Tutorial for software
 
 Lessons for git, unix shell, python: https://software-carpentry.org/lessons/
 
