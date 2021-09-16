@@ -1,0 +1,8 @@
+Start log for mpa_test_HPK31_1_Chip3_2020_09_23_11_19_05
+Power reading:
+P_dig: 135.532 mW  [V=   0.994 V - I= 136.350 mA]
+P_ana:  68.661 mW  [V=   1.191 V - I=  57.650 mA]
+P_pad:  19.797 mW  [V=   1.189 V - I=  16.650 mA]
+Total: 223.990 mW  [I= 210.650 mA]
+Bias voltage set to BV=-150V, I = -0.2012273 muA
+Test decoding:

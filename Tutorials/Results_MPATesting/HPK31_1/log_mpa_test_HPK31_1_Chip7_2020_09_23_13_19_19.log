@@ -1,0 +1,6 @@
+Start log for mpa_test_HPK31_1_Chip7_2020_09_23_13_19_19
+Power reading:
+P_dig:   0.001 mW  [V=   0.010 V - I=   0.100 mA]
+P_ana:   0.001 mW  [V=   0.015 V - I=   0.050 mA]
+P_pad:   0.002 mW  [V=   0.020 V - I=   0.075 mA]
+Total:   0.004 mW  [I=   0.225 mA]

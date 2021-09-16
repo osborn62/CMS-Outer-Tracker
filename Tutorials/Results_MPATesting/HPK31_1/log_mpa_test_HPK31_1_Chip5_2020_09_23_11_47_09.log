@@ -1,0 +1,12 @@
+Start log for mpa_test_HPK31_1_Chip5_2020_09_23_11_47_09
+Power reading:
+P_dig: 116.373 mW  [V=   0.994 V - I= 117.075 mA]
+P_ana:  68.453 mW  [V=   1.191 V - I=  57.475 mA]
+P_pad:  19.083 mW  [V=   1.189 V - I=  16.050 mA]
+Total: 203.909 mW  [I= 190.600 mA]
+Bias voltage set to BV=-150V, I = -0.1968239 muA
+Test decoding:
+Total analog errors:  1888
+Total digital errors: 1888
+Total errors:         3776
+Test I2C communication:

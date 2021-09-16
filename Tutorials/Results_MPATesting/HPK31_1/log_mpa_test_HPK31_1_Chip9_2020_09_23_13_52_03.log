@@ -1,0 +1,52 @@
+Start log for mpa_test_HPK31_1_Chip9_2020_09_23_13_52_03
+Power reading:
+P_dig: 123.629 mW  [V=   0.994 V - I= 124.375 mA]
+P_ana:  68.508 mW  [V=   1.193 V - I=  57.425 mA]
+P_pad:  19.099 mW  [V=   1.190 V - I=  16.050 mA]
+Total: 211.236 mW  [I= 197.850 mA]
+Bias voltage set to BV=-150V, I = -0.2111218 muA
+Test decoding:
+Total analog errors:  0
+Total digital errors: 2
+Total errors:         2
+Test I2C communication:
+Total MPA errors:   0
+Total row errors:   0
+Total pixel errors: 0
+Total errors:       0
+Strip In Test:
+  Strip Input scan passed
+Memory test at 1.2:
+   Number of error:      0
+   Number of stucks:     0
+   Number of I2C issues: 7
+   Number of missing:    0
+   Succeeded at 1.2 V.
+Memory test at 1.0:
+   Number of error:      0
+   Number of stucks:     0
+   Number of I2C issues: 7
+   Number of missing:    0
+   Succeeded at 1.0 V.
+Test pixel masking:
+Unmaskable Pixels:  0 (0.0%)
+Test pixel alive:
+Dead Pixels:        0 (0.0%)
+Inefficient Pixels: 0 (0.0%)
+Noisy Pixels:       0 (0.0%)
+Run S Curves prior/post trimming:
+Pre- Trim THR Mean:    43.61 +/-   32.71
+Pre- Trim THR Noise:    2.88 +/-    0.73
+Pre- Trim CAL Mean:    39.43 +/-    9.91
+Pre- Trim CAL Noise:    1.59 +/-    2.47
+Post-Trim THR Mean:    84.64 +/-    1.85
+Post-Trim THR Noise:    2.90 +/-    0.58
+Post-Trim CAL Mean:    13.70 +/-    1.02
+Post-Trim CAL Noise:    1.65 +/-    0.15
+Bias voltage set to BV=-2V, I = -0.0457331 muA
+Bad bump test at V = -2V:
+Total BadBumps (org) fit:          5 (0.26%)
+Total BadBumps fit (org) non-edge: 5 (0.26%)
+Total BadBumps VCal < 3:           1637 (86.71%)
+Total BadBumps VCal < 5:           1887 (99.95%)
+Bias voltage set to BV=0V, I = -0.03032463 muA
