@@ -13,6 +13,5 @@ Probe station operation tutorial from Berkley Weyer.
 -  Introduction to Plotting and Data Analysis : steps to get started on the software side.
 -  Python Tutorial.ipynb : introduction into python and jupyter notebooks.
 -  OT-Master folder, run MakeModulePlots.ipynb.
--  
 
 
